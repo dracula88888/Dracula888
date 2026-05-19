@@ -31,3 +31,4 @@ jobs:
           name: DevilsWrath-1.0.0
           path: output/DevilsWrath-1.0.0.jar
           if-no-files-found: error
+
