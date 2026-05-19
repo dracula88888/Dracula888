@@ -1,7 +1,0 @@
-name: DevilsWrath
-version: 1.0.0
-main: com.devilswrath.plugin.DevilsWrathPlugin
-api-version: 1.20
-description: Devils Wrath - A demonic sword plugin
-author: Custom
-commands: {}
