@@ -1,0 +1,9 @@
+name: Doomfang
+version: 1.0.0
+main: ge.shadowcleaver.Doomfang
+api-version: 1.20
+author: Doomfang
+description: >
+  Diamond Axe plugin:
+  - Every 4th hit applies Blindness I for 0.8 seconds (passive)
+  - Vain Miner: fells entire tree automatically
