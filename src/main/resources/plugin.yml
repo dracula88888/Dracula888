@@ -1,0 +1,9 @@
+name: ShadowCleaver
+version: 1.0.0
+main: ge.shadowcleaver.ShadowCleaver
+api-version: 1.20
+author: ShadowCleaver
+description: >
+  Diamond Axe plugin:
+  - Every 4th hit applies Blindness to the target for 0.8 seconds (passive)
+  - Vein Miner: mines entire connected ore vein automatically
